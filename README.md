@@ -33,9 +33,9 @@ Here are some metrics of my activity on GitHub:
 
 </div>
 
-
 <div align="center">
-  <h2>Languages Used</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeeDemon3&layout=compact" alt="Languages Used">
+  <h2>Lenguajes de Programación Utilizados</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeeDemon3&layout=compact&theme=dark" alt="Lenguajes Utilizados">
 </div>
+
 <hr style="border: none; border-top: 2px solid #FF5733; margin: 20px 0;">
