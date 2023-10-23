@@ -9,6 +9,8 @@
 <div align="center">
 
 *I'm `Antonio`, a passionate ~~junior~~ `programmer` with a focus on software development and technology. <br>I take pride in presenting my work and contributions in this GitHub repository.*
+  <hr style="border: none; border-top: 2px solid #FF5733; margin: 20px 0;">
+
 
 ## About Me
 
@@ -36,3 +38,4 @@ Here are some metrics of my activity on GitHub:
   <h2>Languages Used</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeeDemon3&layout=compact" alt="Languages Used">
 </div>
+<hr style="border: none; border-top: 2px solid #FF5733; margin: 20px 0;">
