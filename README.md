@@ -3,14 +3,12 @@
   <h1 style="font-size: 36px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); font-family: 'Arial', sans-serif; color: #333;">Welcome to My GitHub Profile</h1>
 </div>
 
-
-![Profile Picture]((https://media.licdn.com/dms/image/D4E16AQEQvKdmoo6hSw/profile-displaybackgroundimage-shrink_350_1400/0/1692459693830?e=1703721600&v=beta&t=ZWG4O5X1ASuhsGGILlBMIEexEO6akKfLxcrq_WStnYs](https://media.licdn.com/dms/image/D4E16AQEQvKdmoo6hSw/profile-displaybackgroundimage-shrink_350_1400/0/1692459706448?e=1711584000&v=beta&t=NsjIGdynFNd0Jq0UyRwQ9W6PuARhiZyhAQZAJX3hGN4)](https://besthqwallpapers.com/Uploads/30-12-2020/149640/github-blue-logo-4k-blue-brickwall-github-logo-social-networks.jpg)](https://www.seozen.top/wp-content/uploads/2021/05/GitHub-headpic.jpeg))
+![Profile Picture](https://media.licdn.com/dms/image/D4E16AQEQvKdmoo6hSw/profile-displaybackgroundimage-shrink_350_1400/0/1692459706448?e=1711584000&v=beta&t=NsjIGdynFNd0Jq0UyRwQ9W6PuARhiZyhAQZAJX3hGN4)
 
 <div align="center">
 
 *I'm `Antonio`, a passionate ~~junior~~ `programmer` with a focus on software development and technology. <br>I take pride in presenting my work and contributions in this GitHub repository.*
   <hr style="border: none; border-top: 2px solid #FF5733; margin: 20px 0;">
-
 
 ## About Me
 
