@@ -7,7 +7,7 @@
 
 <div align="center">
 
-*I'm `Antonio`, a passionate ~~junior~~ `programmer` with a focus on software development and technology. <br>I take pride in presenting my work and contributions in this GitHub repository.*
+*I'm `Antonio`, a passionate `programmer` with a focus on software development and technology. <br>I take pride in presenting my work and contributions in this GitHub repository.*
   <hr style="border: none; border-top: 2px solid #FF5733; margin: 20px 0;">
 
 ## About Me
