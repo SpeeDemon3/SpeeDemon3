@@ -3,7 +3,7 @@
   <h1 style="font-size: 36px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); font-family: 'Arial', sans-serif; color: #333;">Welcome to My GitHub Profile</h1>
 </div>
 
-![Profile Picture](https://media.licdn.com/dms/image/D4E16AQEQvKdmoo6hSw/profile-displaybackgroundimage-shrink_350_1400/0/1692459706448?e=1717632000&v=beta&t=4YyfKMnxWQY3gt4Rw4sF8xI8RfERGa7574a1OZs3C-g)
+![Profile Picture](https://media.licdn.com/dms/image/D4E16AQEQvKdmoo6hSw/profile-displaybackgroundimage-shrink_350_1400/0/1692459706448?e=1723075200&v=beta&t=9vTB1JfRoYWRMF37KqnRKAgBXdDwXG3UMnrFgO2duu8)
 
 <div align="center">
 
