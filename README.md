@@ -19,7 +19,7 @@
 
 I'm excited about the possibility of connecting with you! You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/antonio-ruiz-benito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/antonio-ruiz-benito/)
 
 Explore my repositories and projects to gain a deeper insight into my work.
 
